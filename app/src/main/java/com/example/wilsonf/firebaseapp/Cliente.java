@@ -13,9 +13,15 @@ import java.util.Map;
 
 public class Cliente
 {
+
+
+
     public String nombre;
     public String Apellido;
     public int Edad;
+
+
+
 
 
     @Exclude
